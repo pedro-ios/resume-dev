@@ -1,15 +1,65 @@
 # Pedro Henrique
 
 ## Work Experience
-### Lead & Senior Developer (2015 - 2018)
-#### [joyjet] (http://www.joyjet.com/), Fortaleza, CE
+
+### Senior Mobile Developer/Architect (2015 - 2018)
+#### [joyjet] (http://www.joyjet.com), Fortaleza/Paris, BR/FR
 
 * Developing and maintaining iOS, Android applications
 * Shipped code on projects with an agile, test-driven development
 * Extensive experience with java, swift, objective-c, angularJS, typescript, pyton, javascript, ruby, less, sass, scss and jQuery
 * Twitter, Facebook, Instagram API's
-* JSON, JSONP, XML
+* JSON, XML
 * Using Git for version control, revisions
+
+### Lead & Senior Mobile Developer (2013 - 2016)
+#### [Index Digital] (http://www.indexdigital.com.br), Fortaleza, CE
+
+* Developing and maintaining iOS, Android applications
+* Shipped code on projects with an agile, test-driven development
+* Extensive experience with java, swift, objective-c, javascript, php, actionscript, css
+* Twitter, Facebook, Instagram API's
+* JSON, XML
+* Using Git for version control, revisions
+
+### Senior Developer (2011 - 2013)
+#### [101º Macaco] (https://vimeo.com/gomonkey), Fortaleza, CE
+
+* Developing and maintaining iOS, Android applications, Games realtime, unity and arduino
+* Extensive experience with java, objective-c, javascript, css, php, actionscript, C#, C++
+* Twitter, Facebook, Instagram API's
+* JSON, XML
+
+### Senior Web Developer (2010 - 2011)
+#### [333 Propaganda] (http://333comunicacao.com.br), Fortaleza, CE
+
+* Developing web applications, flash applications, games, arduino and unity
+* Extensive experience with java,  javascript, actionscript, php, css and jQuery
+* Twitter, Facebook, Instagram API's
+* JSON, XML
+
+### Senior ActionScript Developer (2007 - 2010)
+#### [Index Digital] (http://www.indexdigital.com.br), Fortaleza, CE
+
+* Developing and maintaining web applications, flash applications, games and unity
+* Extensive experience with java,  javascript, actionscript, php, css and jQuery
+* Twitter, Facebook, Instagram API's
+* JSON, XML
+
+### Lead & Senior ActionScript Developer (2006 - 2007)
+#### [Unifor] (www.unifor.br/nati), Fortaleza, CE
+
+* Developing flash applications
+* Shipped code on projects with an agile, test-driven development
+* Extensive experience with java and actionscript
+
+### Java/Actionscript Developer (2005 - 2006)
+#### [IFCE] (http://ifce.edu.br), Fortaleza, CE
+
+* Developing and maintaining web applications, flash applications, games and unity
+* Shipped code on projects with an agile, test-driven development
+* Extensive experience with java,  javascript, actionscript, php, css and jQuery
+* XML
 
 # Skills
 * Java
@@ -25,9 +75,10 @@
 * Behavior Driven Development
 * Pragmatic Programming
 * Javascript
+* Actionscript
 
 I am experienced with the following environments and software:
-AngularJS, Node.js, Ruby, Ruby On Rails, Python, Django, PHP, Laravel, Linux, Ubuntu, Apache, Nginx, MySQL, PostgreSQL, SQlite, Git, Subversion, Newrelic, RVM, ActionScript, API Development, JSON, XML
+AngularJS, Node.js, Ruby, Ruby On Rails, Python, Django, PHP, Linux, Ubuntu, Apache, Nginx, MySQL, PostgreSQL, SQlite, Git, Subversion, Newrelic, RVM, API Development, JSON, XML
 
 # Projects
 ## [Kabbee] (https://www.kabbee.com)
