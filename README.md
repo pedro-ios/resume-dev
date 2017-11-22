@@ -95,13 +95,12 @@ Developed and maintaining Alta Ipsum iOS, managed the team, implemented lastest 
 ### Features
 * Complex iOS application with Objective-C
 
-## [Arte Urbana Fortaleza - Android] (https://play.google.com/store/apps/details?id=br.com.festivalconcreto.arteurbana&hl=pt_BR)
+## [Arte Urbana Fortaleza]
 Developed Arte Urbana Fortaleza, managed the team, implemented lastest mobile technologies.
 
-## [Arte Urbana Fortaleza - iOS] (https://itunes.apple.com/us/app/arte-urbana-fortaleza/id1217131795?mt=8)
-Developed Arte Urbana Fortaleza, managed the team, implemented lastest mobile technologies.
-
-
+### Versions
+* [Android] (https://play.google.com/store/apps/details?id=br.com.festivalconcreto.arteurbana&hl=pt_BR)
+* [iOS] (https://itunes.apple.com/us/app/arte-urbana-fortaleza/id1217131795?mt=8)
 
 ## Background Experience
 ### ActionScript Developer ( Before 2012)
