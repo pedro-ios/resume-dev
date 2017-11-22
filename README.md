@@ -81,22 +81,27 @@ I am experienced with the following environments and software:
 AngularJS, Node.js, Ruby, Ruby On Rails, Python, Django, PHP, Linux, Ubuntu, Apache, Nginx, MySQL, PostgreSQL, SQlite, Git, Subversion, Newrelic, RVM, API Development, JSON, XML
 
 # Projects
-## [Kabbee] (https://itunes.apple.com/gb/app/kabbee-book-london-minicabs-compare-taxi-fares/id424851140?mt=8)
+## [Kabbee] (https://www.kabbee.com)
 Developed and maintaining Kabbee iOS and Android, managed the team, implemented lastest mobile technologies.
 
-### Features
-* Complex iOS application with Objective-C
-* User guest
-* Implementation Vesion 5
+### Versions
+* [iOS] (https://itunes.apple.com/gb/app/kabbee-book-london-minicabs-compare-taxi-fares/id424851140?mt=8)
+* [Android] (https://play.google.com/store/apps/details?id=com.kabbee.android)
 
-## [Alta Ipsum] (https://itunes.apple.com/br/app/alta-ipsum/id975000539?mt=8)
+### Features
+* Complex iOS application with native codes
+
+## [Alta Ipsum] (https://www.altaipsum.com)
 Developed and maintaining Alta Ipsum iOS, managed the team, implemented lastest mobile technologies.
+
+### Versions
+* [iOS] (https://itunes.apple.com/br/app/alta-ipsum/id975000539?mt=8)
 
 ### Features
 * Complex iOS application with Objective-C
 
 ## [Arte Urbana Fortaleza]
-Developed Arte Urbana Fortaleza, managed the team, implemented lastest mobile technologies.
+Developed Arte Urbana Fortaleza, managed the team, implemented lastest mobile technologies (native).
 
 ### Versions
 * [Android] (https://play.google.com/store/apps/details?id=br.com.festivalconcreto.arteurbana&hl=pt_BR)
