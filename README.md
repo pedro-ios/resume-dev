@@ -100,7 +100,14 @@ Developed and maintaining Alta Ipsum iOS, managed the team, implemented lastest 
 ### Features
 * Complex iOS application with Objective-C
 
-## [Arte Urbana Fortaleza]
+## [Plantão Ativo] (https://plantaoativo.com)
+Developed Plantao Ativo, managed the team, implemented lastest mobile technologies (native).
+
+### Versions
+* [Android] (https://play.google.com/store/apps/details?id=br.com.indexdigital.plantaoativo)
+* [iOS] (https://itunes.apple.com/br/app/plantao-ativo/id1126420396?mt=8)
+
+## [Arte Urbana Fortaleza] (http://www.festivalconcreto.com.br)
 Developed Arte Urbana Fortaleza, managed the team, implemented lastest mobile technologies (native).
 
 ### Versions
