@@ -114,6 +114,13 @@ Developed Arte Urbana Fortaleza, managed the team, implemented lastest mobile te
 * [Android] (https://play.google.com/store/apps/details?id=br.com.festivalconcreto.arteurbana&hl=pt_BR)
 * [iOS] (https://itunes.apple.com/us/app/arte-urbana-fortaleza/id1217131795?mt=8)
 
+## [Pizza Já] (http://www.pizzaja.net)
+Maintaining Pizza Já, implemented lastest mobile technologies (native).
+
+### Versions
+* [Android] (https://play.google.com/store/apps/details?id=com.pizzaja.app)
+* [iOS] (https://itunes.apple.com/br/app/pizza-j%C3%A1/id996039445?mt=8)
+
 ## Background Experience
 ### ActionScript Developer ( Before 2012)
 
