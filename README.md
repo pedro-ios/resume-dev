@@ -101,8 +101,7 @@ Developed Arte Urbana Fortaleza, managed the team, implemented lastest mobile te
 ## [Arte Urbana Fortaleza - iOS] (https://itunes.apple.com/us/app/arte-urbana-fortaleza/id1217131795?mt=8)
 Developed Arte Urbana Fortaleza, managed the team, implemented lastest mobile technologies.
 
-### Features
-* Complex applications with native code
+
 
 ## Background Experience
 ### ActionScript Developer ( Before 2012)
