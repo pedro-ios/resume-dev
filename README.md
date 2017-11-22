@@ -81,13 +81,19 @@ I am experienced with the following environments and software:
 AngularJS, Node.js, Ruby, Ruby On Rails, Python, Django, PHP, Linux, Ubuntu, Apache, Nginx, MySQL, PostgreSQL, SQlite, Git, Subversion, Newrelic, RVM, API Development, JSON, XML
 
 # Projects
-## [Kabbee] (https://www.kabbee.com)
+## [Kabbee] (https://itunes.apple.com/gb/app/kabbee-book-london-minicabs-compare-taxi-fares/id424851140?mt=8)
 Developed and maintaining Kabbee iOS and Android, managed the team, implemented lastest mobile technologies.
 
 ### Features
 * Complex iOS application with Objective-C
 * User guest
 * Implementation Vesion 5
+
+## [Alta Ipsum] (https://itunes.apple.com/br/app/alta-ipsum/id975000539?mt=8)
+Developed and maintaining Alta Ipsum iOS, managed the team, implemented lastest mobile technologies.
+
+### Features
+* Complex iOS application with Objective-C
 
 ## Background Experience
 ### ActionScript Developer ( Before 2012)
