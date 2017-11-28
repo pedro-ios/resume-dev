@@ -1,5 +1,17 @@
 # Pedro Henrique
 
+## Contact Detail
+
+### Linkedin:
+![alt text](https://findicons.com/files/icons/1785/social_and_web_icons_v2/46/linkedin.png "pedroknk@gmail.com") pedroknk@gmail.com
+
+### Skype:
+![alt text](https://findicons.com/files/icons/1785/social_and_web_icons_v2/46/skype.png "pedro0102") pedro0102
+
+### Email:
+![alt text](https://findicons.com/files/icons/1785/social_and_web_icons_v2/46/google.png "pedroknk@gmail.com") pedroknk@gmail.com
+
+
 ## Work Experience
 
 ### Senior Mobile Developer/Architect (2015 - 2018)
