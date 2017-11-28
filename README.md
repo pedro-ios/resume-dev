@@ -8,16 +8,13 @@
 
 ## Education
 
-### Software Developer (2003 - 2005)
-#### [IFCE](http://ifce.edu.br), Fortaleza, BR
-
-### Analysis and Systems Development (2015 - 2019)
-#### [Estácio](http://www.estacio.br), BR
+* **Software Developer (2003 - 2005)** - [IFCE](http://ifce.edu.br), Fortaleza, BR
+* **Analysis and Systems Development (2015 - 2019)** - [Estácio](http://www.estacio.br), BR
 
 # Work Experience
 
 ### Senior Mobile Developer/Architect (2015 - 2018)
-#### [joyjet](http://www.joyjet.com), Fortaleza/Paris, BR/FR
+#### [Joyjet](http://www.joyjet.com), Fortaleza/Paris, BR/FR
 
 * Developing and maintaining iOS, Android applications
 * Shipped code on projects with an agile, test-driven development
