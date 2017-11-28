@@ -96,8 +96,8 @@ AngularJS, Node.js, Ruby, Ruby On Rails, Python, Django, PHP, Linux, Ubuntu, Apa
 Developed and maintaining Kabbee iOS and Android, managed the team, implemented lastest mobile technologies.
 
 ### Versions
-* [iOS] (https://itunes.apple.com/gb/app/kabbee-book-london-minicabs-compare-taxi-fares/id424851140?mt=8)
-* [Android] (https://play.google.com/store/apps/details?id=com.kabbee.android)
+* [iOS](https://itunes.apple.com/gb/app/kabbee-book-london-minicabs-compare-taxi-fares/id424851140?mt=8)
+* [Android](https://play.google.com/store/apps/details?id=com.kabbee.android)
 
 ### Features
 * Complex iOS application with native codes
@@ -106,7 +106,7 @@ Developed and maintaining Kabbee iOS and Android, managed the team, implemented 
 Developed and maintaining Alta Ipsum iOS, managed the team, implemented lastest mobile technologies.
 
 ### Versions
-* [iOS] (https://itunes.apple.com/br/app/alta-ipsum/id975000539?mt=8)
+* [iOS](https://itunes.apple.com/br/app/alta-ipsum/id975000539?mt=8)
 
 ### Features
 * Complex iOS application with Objective-C
@@ -115,34 +115,34 @@ Developed and maintaining Alta Ipsum iOS, managed the team, implemented lastest 
 Developed Plantao Ativo, managed the team, implemented lastest mobile technologies (native).
 
 ### Versions
-* [Android] (https://play.google.com/store/apps/details?id=br.com.indexdigital.plantaoativo)
-* [iOS] (https://itunes.apple.com/br/app/plantao-ativo/id1126420396?mt=8)
+* [Android](https://play.google.com/store/apps/details?id=br.com.indexdigital.plantaoativo)
+* [iOS](https://itunes.apple.com/br/app/plantao-ativo/id1126420396?mt=8)
 
 ## [Chefshout](http://www.chefshout.com)
 Developed Chefshout, implemented lastest mobile technologies (native).
 
 ### Versions
-* [iOS] (https://itunes.apple.com/br/app/chefshout-eat-where-top-chefs/id934209546?mt=8)
+* [iOS](https://itunes.apple.com/br/app/chefshout-eat-where-top-chefs/id934209546?mt=8)
 
 ## [Arte Urbana Fortaleza](http://www.festivalconcreto.com.br)
 Developed Arte Urbana Fortaleza, managed the team, implemented lastest mobile technologies (native).
 
 ### Versions
-* [Android] (https://play.google.com/store/apps/details?id=br.com.festivalconcreto.arteurbana&hl=pt_BR)
-* [iOS] (https://itunes.apple.com/us/app/arte-urbana-fortaleza/id1217131795?mt=8)
+* [Android](https://play.google.com/store/apps/details?id=br.com.festivalconcreto.arteurbana&hl=pt_BR)
+* [iOS](https://itunes.apple.com/us/app/arte-urbana-fortaleza/id1217131795?mt=8)
 
 ## [Pizza Já](http://www.pizzaja.net)
 Maintaining Pizza Já, implemented lastest mobile technologies (native).
 
 ### Versions
-* [Android] (https://play.google.com/store/apps/details?id=com.pizzaja.app)
-* [iOS] (https://itunes.apple.com/br/app/pizza-j%C3%A1/id996039445?mt=8)
+* [Android](https://play.google.com/store/apps/details?id=com.pizzaja.app)
+* [iOS](https://itunes.apple.com/br/app/pizza-j%C3%A1/id996039445?mt=8)
 
 ## [Gran Marquise](http://www.granmarquise.com.br)
 Maintaining Gran Marquise, implemented lastest mobile technologies (native).
 
 ### Versions
-* [iOS] (https://itunes.apple.com/br/app/gran-marquise/id787414243?mt=8)
+* [iOS](https://itunes.apple.com/br/app/gran-marquise/id787414243?mt=8)
 
 ## Background Experience
 ### ActionScript Developer ( Before 2012)
