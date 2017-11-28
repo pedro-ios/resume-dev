@@ -13,8 +13,7 @@
 
 # Work Experience
 
-### Senior Mobile Developer/Architect (2015 - 2018)
-#### [Joyjet](http://www.joyjet.com), Fortaleza/Paris, BR/FR
+### **Senior Mobile Developer/Architect (2015 - 2018)** - [Joyjet](http://www.joyjet.com), Fortaleza/Paris, BR/FR
 
 * Developing and maintaining iOS, Android applications
 * Shipped code on projects with an agile, test-driven development
@@ -23,8 +22,7 @@
 * JSON, XML
 * Using Git for version control, revisions
 
-### Lead & Senior Mobile Developer (2013 - 2016)
-#### [Index Digital](http://www.indexdigital.com.br), Fortaleza, CE
+### **Lead & Senior Mobile Developer (2013 - 2016)**- [Index Digital](http://www.indexdigital.com.br), Fortaleza, CE
 
 * Developing and maintaining iOS, Android applications
 * Shipped code on projects with an agile, test-driven development
@@ -33,16 +31,14 @@
 * JSON, XML
 * Using Git for version control, revisions
 
-### Senior Developer (2011 - 2013)
-#### [101º Macaco](https://vimeo.com/gomonkey), Fortaleza, CE
+### **Senior Developer (2011 - 2013)** - [101º Macaco](https://vimeo.com/gomonkey), Fortaleza, CE
 
 * Developing and maintaining iOS, Android applications, Games realtime, unity and arduino
 * Extensive experience with java, objective-c, javascript, css, php, actionscript, C#, C++
 * Twitter, Facebook, Instagram API's
 * JSON, XML
 
-### Senior Web Developer (2010 - 2011)
-#### [333 Propaganda](http://333comunicacao.com.br), Fortaleza, CE
+### **Senior Web Developer (2010 - 2011)** - [333 Propaganda](http://333comunicacao.com.br), Fortaleza, CE
 
 * Developing web applications, flash applications, games, arduino and unity
 * Extensive experience with java,  javascript, actionscript, php, css and jQuery
