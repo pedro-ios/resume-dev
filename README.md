@@ -145,6 +145,19 @@ Maintaining Gran Marquise, implemented lastest mobile technologies (native).
 ### Versions
 * [iOS](https://itunes.apple.com/br/app/gran-marquise/id787414243?mt=8)
 
+## [Pá Pé Pio de Casa Pio](http://www.casapio.com.br)
+Developed Pá Pé Pio, managed the team, implemented lastest mobile technologies (native).
+
+### Versions
+* [iOS](https://itunes.apple.com/br/app/p%C3%A1-p%C3%A9-pio/id1433846225?mt=8)
+
+## [Jangadeiro](http://tribunadoceara.uol.com.br)
+Developed Jangadeiro, managed the team, implemented lastest mobile technologies (native).
+
+### Versions
+* [iOS](https://itunes.apple.com/br/app/jangadeiro/id995041397?mt=8)
+* [Android](https://play.google.com/store/apps/details?id=com.index.sistemajangadeiro)
+
 ## Background Experience
 ### ActionScript Developer ( Before 2012)
 
