@@ -119,6 +119,11 @@ Developed Plantao Ativo, managed the team, implemented lastest mobile technologi
 * [Android](https://play.google.com/store/apps/details?id=br.com.indexdigital.plantaoativo)
 * [iOS](https://itunes.apple.com/br/app/plantao-ativo/id1126420396?mt=8)
 
+## [Fraldas Sapeka](https://www.fraldassapeka.com.br)
+
+### Versions
+* [Web](https://www.fraldassapeka.com.br)
+
 ## [Chefshout](http://www.chefshout.com)
 Developed Chefshout, implemented lastest mobile technologies (native).
 
