@@ -80,6 +80,7 @@
 * Objective-C
 * Swift
 * GitHub
+* AWS IoT  MQTT
 * Adobe Photoshop
 * Mobile development (RESTful architecture)
 * Agile Development
@@ -87,10 +88,10 @@
 * Behavior Driven Development
 * Pragmatic Programming
 * Javascript
-* Actionscript
+* Actionscript
 
 I am experienced with the following environments and software:
-AngularJS, Node.js, Ruby, Ruby On Rails, Python, Django, PHP, Linux, Ubuntu, Apache, Nginx, MySQL, PostgreSQL, SQlite, Git, Subversion, Newrelic, RVM, API Development, JSON, XML
+SDK Dropbox, SDK Instagram, SDK Facebook, AngularJS, Node.js, Ruby, Ruby On Rails, Python, Django, PHP, Linux, Ubuntu, Apache, Nginx, MySQL, PostgreSQL, SQlite, Git, Subversion, Newrelic, RVM, API Development, JSON, XML
 
 # Projects
 ## [Kabbee](https://www.kabbee.com)
