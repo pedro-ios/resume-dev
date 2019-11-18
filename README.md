@@ -80,7 +80,7 @@
 * Objective-C
 * Swift
 * GitHub
-* AWS IoT  MQTT
+* AWS IoT MQTT
 * Adobe Photoshop
 * Mobile development (RESTful architecture)
 * Agile Development
@@ -89,9 +89,10 @@
 * Pragmatic Programming
 * Javascript
 * Actionscript
+* Charles
 
 I am experienced with the following environments and software:
-SDK Dropbox, SDK Instagram, SDK Facebook, AngularJS, Node.js, Ruby, Ruby On Rails, Python, Django, PHP, Linux, Ubuntu, Apache, Nginx, MySQL, PostgreSQL, SQlite, Git, Subversion, Newrelic, RVM, API Development, JSON, XML
+SDK Dropbox, SDK Instagram, SDK Facebook, FFmpeg, AngularJS, Node.js, Ruby, Ruby On Rails, Python, Django, PHP, Linux, Ubuntu, Apache, Nginx, MySQL, PostgreSQL, SQlite, Git, Subversion, Newrelic, RVM, MVC, MVP, MVVM, SOLID, API Development, JSON, XML
 
 # Projects
 ## [Kabbee](https://www.kabbee.com)
@@ -112,6 +113,22 @@ Developed and maintaining Alta Ipsum iOS, managed the team, implemented lastest 
 
 ### Features
 * Complex iOS application with Objective-C
+
+## [Remix](https://http://www.pepblast.com/)
+Developed Remix, implemented lastest mobile technologies (native).
+
+### Versions
+* [Android](https://play.google.com/store/apps/details?id=air.com.pepblast.remix)
+
+### Features
+* Complex Android application with native codes. Real-time photo and video manipulation integrated with leading social networks
+
+## [Pá Pé Pio de Casa Pio](http://www.casapio.com.br)
+Developed Pá Pé Pio, managed the team, implemented lastest mobile technologies (native).
+
+### Versions
+* [iOS](https://itunes.apple.com/br/app/p%C3%A1-p%C3%A9-pio/id1433846225?mt=8)
+* [Android](https://play.google.com/store/apps/details?id=com.casapio.papepio)
 
 ## [Plantão Ativo](https://plantaoativo.com)
 Developed Plantao Ativo, managed the team, implemented lastest mobile technologies (native).
@@ -150,12 +167,6 @@ Maintaining Gran Marquise, implemented lastest mobile technologies (native).
 
 ### Versions
 * [iOS](https://itunes.apple.com/br/app/gran-marquise/id787414243?mt=8)
-
-## [Pá Pé Pio de Casa Pio](http://www.casapio.com.br)
-Developed Pá Pé Pio, managed the team, implemented lastest mobile technologies (native).
-
-### Versions
-* [iOS](https://itunes.apple.com/br/app/p%C3%A1-p%C3%A9-pio/id1433846225?mt=8)
 
 ## [Jangadeiro](http://tribunadoceara.uol.com.br)
 Developed Jangadeiro, managed the team, implemented lastest mobile technologies (native).
