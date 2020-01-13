@@ -95,6 +95,18 @@ I am experienced with the following environments and software:
 SDK Dropbox, SDK Instagram, SDK Facebook, FFmpeg, AngularJS, Node.js, Ruby, Ruby On Rails, Python, Django, PHP, Linux, Ubuntu, Apache, Nginx, MySQL, PostgreSQL, SQlite, Git, Subversion, Newrelic, RVM, MVC, MVP, MVVM, SOLID, API Development, JSON, XML
 
 # Projects
+
+## [Alta Ipsum](https://www.altaipsum.com)
+Developed and maintaining Alta Ipsum iOS, managed the team, implemented lastest mobile technologies.
+
+### Versions
+* [iOS](https://itunes.apple.com/br/app/alta-ipsum/id975000539?mt=8)
+* [Android](https://play.google.com/store/apps/details?id=com.joyjet.altaipsum)
+
+### Features
+* Complex iOS application with Objective-C
+* Complex Android application with Java and Kotlin
+
 ## [Kabbee](https://www.kabbee.com)
 Developed and maintaining Kabbee iOS and Android, managed the team, implemented lastest mobile technologies.
 
@@ -103,16 +115,7 @@ Developed and maintaining Kabbee iOS and Android, managed the team, implemented 
 * [Android](https://play.google.com/store/apps/details?id=com.kabbee.android)
 
 ### Features
-* Complex iOS application with native codes
-
-## [Alta Ipsum](https://www.altaipsum.com)
-Developed and maintaining Alta Ipsum iOS, managed the team, implemented lastest mobile technologies.
-
-### Versions
-* [iOS](https://itunes.apple.com/br/app/alta-ipsum/id975000539?mt=8)
-
-### Features
-* Complex iOS application with Objective-C
+* Complex application with native codes
 
 ## [Remix](https://http://www.pepblast.com/)
 Developed Remix, implemented lastest mobile technologies (native).
