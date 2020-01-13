@@ -80,7 +80,7 @@
 * Objective-C
 * Swift
 * GitHub
-* AWS IoT MQTT 
+* AWS IoT MQTT
 * Adobe Photoshop
 * Mobile development (RESTful architecture)
 * Agile Development
@@ -88,7 +88,7 @@
 * Behavior Driven Development
 * Pragmatic Programming
 * Javascript
-* Actionscript 
+* Actionscript
 * Charles
 
 I am experienced with the following environments and software:
