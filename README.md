@@ -75,6 +75,7 @@
 
 # Skills
 * Java
+* SwiftUI
 * iOS
 * Android
 * Objective-C
