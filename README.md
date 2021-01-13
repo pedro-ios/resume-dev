@@ -14,6 +14,26 @@
 
 # Work Experience
 
+### Senior Mobile Developer (2020 - 2021)
+#### [GVP.digital](https://www.gvp.com.br/), Fortaleza/São Paulo, BR
+
+* Developing and maintaining iOS, Android applications
+* Shipped code on projects with an agile, test-driven development
+* Extensive experience with java, swift, objective-c
+* Twitter, Facebook, Firebase, Instagram API's
+* JSON, XML
+* Using Git for version control, revisions
+
+### Senior Mobile Developer (2018 - 2020)
+#### [Photozig](https://www.photozig.com/), Fortaleza/California, BR/USA
+
+* Developing and maintaining iOS, Android applications
+* Shipped code on projects with an agile, test-driven development
+* Extensive experience with java, swift, objective-c
+* Twitter, Facebook, Firebase, Instagram API's
+* JSON, XML
+* Using Git for version control, revisions
+
 ### Senior Mobile Developer/Architect (2015 - 2018)
 #### [Joyjet](http://www.joyjet.com), Fortaleza/Paris, BR/FR
 
@@ -97,6 +117,50 @@ SDK Dropbox, SDK Instagram, SDK Facebook, FFmpeg, AngularJS, Node.js, Ruby, Ruby
 
 # Projects
 
+## [Remix](https://http://www.pepblast.com/)
+Developed Remix, implemented lastest mobile technologies (native).
+
+### Versions
+* [Android](https://play.google.com/store/apps/details?id=air.com.pepblast.remix)
+* [iOS](https://apps.apple.com/us/app/remix-social-video-pepblast-rx/id1214072467)
+
+## [cRIDE](https://apps.apple.com/br/app/cride/id1508280892)
+
+### Versions
+* [iOS](https://apps.apple.com/br/app/cride/id1508280892)
+
+### Features
+* Complex SwiftUI application with native codes, manipulation integrated with leading social networks
+
+## [cRIDE Driver](https://apps.apple.com/pt/app/cride-driver/id1516876472)
+
+### Versions
+* [iOS](https://apps.apple.com/pt/app/cride-driver/id1516876472)
+
+### Features
+* Complex SwiftUI application with native codes, manipulation integrated with leading social networks
+
+## [PepBlast MP](https://http://www.pepblast.com/)
+Developed Remix, implemented lastest mobile technologies (native).
+
+### Versions
+* [Android](https://play.google.com/store/apps/details?id=air.com.pepblast.mp1&hl=pt_BR&gl=US)
+* [iOS](https://apps.apple.com/us/app/slide-show-maker-pepblast-mp/id648683372)
+
+### Features
+* Complex Android application with native codes. Real-time photo and video manipulation integrated with leading social networks
+
+## [Jequiti com você](https://www.jequiti.com.br/)
+Developed and maintaining Jequiti iOS/Android, managed the team, implemented lastest mobile technologies.
+
+### Versions
+* [iOS](https://apps.apple.com/br/app/jequiti-com-voc%C3%AA/id1456016904)
+* [Android](https://play.google.com/store/apps/details?id=br.com.zapsac.jequitivoce&hl=pt_BR&gl=US)
+
+## [ZapJequiti](https://www.jequiti.com.br/)
+
+* [Android](https://play.google.com/store/apps/details?id=br.com.jequiti.zapsac3&hl=pt_BR&gl=US)
+
 ## [Alta Ipsum](https://www.altaipsum.com)
 Developed and maintaining Alta Ipsum iOS, managed the team, implemented lastest mobile technologies.
 
@@ -104,9 +168,15 @@ Developed and maintaining Alta Ipsum iOS, managed the team, implemented lastest 
 * [iOS](https://itunes.apple.com/br/app/alta-ipsum/id975000539?mt=8)
 * [Android](https://play.google.com/store/apps/details?id=com.joyjet.altaipsum)
 
+## [Clipounets](https://www.clipounets.com/)
+Developed and maintaining Clipounets iOS, managed the team, implemented lastest mobile technologies.
+
+### Versions
+* [iOS](https://apps.apple.com/fr/app/clipounets-comptines-en-video/id401893747)
+
 ### Features
-* Complex iOS application with Objective-C
-* Complex Android application with Java and Kotlin
+* Complex iOS application with Swift 5
+* Payments with AppStore
 
 ## [Kabbee](https://www.kabbee.com)
 Developed and maintaining Kabbee iOS and Android, managed the team, implemented lastest mobile technologies.
@@ -117,15 +187,6 @@ Developed and maintaining Kabbee iOS and Android, managed the team, implemented 
 
 ### Features
 * Complex application with native codes
-
-## [Remix](https://http://www.pepblast.com/)
-Developed Remix, implemented lastest mobile technologies (native).
-
-### Versions
-* [Android](https://play.google.com/store/apps/details?id=air.com.pepblast.remix)
-
-### Features
-* Complex Android application with native codes. Real-time photo and video manipulation integrated with leading social networks
 
 ## [Pepblast](https://http://www.pepblast.com/)
 Developed Pepblast, implemented lastest mobile technologies (native).
