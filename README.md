@@ -124,6 +124,9 @@ Developed Remix, implemented lastest mobile technologies (native).
 * [Android](https://play.google.com/store/apps/details?id=air.com.pepblast.remix)
 * [iOS](https://apps.apple.com/us/app/remix-social-video-pepblast-rx/id1214072467)
 
+### Features
+* Complex Android application with native codes. Real-time photo and video manipulation integrated with leading social networks
+
 ## [cRIDE](https://apps.apple.com/br/app/cride/id1508280892)
 
 ### Versions
@@ -187,15 +190,6 @@ Developed and maintaining Kabbee iOS and Android, managed the team, implemented 
 
 ### Features
 * Complex application with native codes
-
-## [Pepblast](https://http://www.pepblast.com/)
-Developed Pepblast, implemented lastest mobile technologies (native).
-
-### Versions
-* [Android](https://play.google.com/store/apps/details?id=air.com.pepblast.app)
-
-### Features
-* Complex Android application with native codes. Real-time photo and video manipulation integrated with leading social networks
 
 ## [Pá Pé Pio de Casa Pio](http://www.casapio.com.br)
 Developed Pá Pé Pio, managed the team, implemented lastest mobile technologies (native).
