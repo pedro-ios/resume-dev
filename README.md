@@ -101,7 +101,7 @@
 * Objective-C
 * Swift
 * GitHub
-* AWS IoT MQTT
+* AWS IoT MQTT
 * Adobe Photoshop
 * Mobile development (RESTful architecture)
 * Agile Development
@@ -109,8 +109,11 @@
 * Behavior Driven Development
 * Pragmatic Programming
 * Javascript
-* Actionscript
+* Actionscript
 * Charles
+* MVP
+* MVVM
+* MVC
 
 I am experienced with the following environments and software:
 SDK Dropbox, SDK Instagram, SDK Facebook, FFmpeg, AngularJS, Node.js, Ruby, Ruby On Rails, Python, Django, PHP, Linux, Ubuntu, Apache, Nginx, MySQL, PostgreSQL, SQlite, Git, Subversion, Newrelic, RVM, MVC, MVP, MVVM, SOLID, API Development, JSON, XML
