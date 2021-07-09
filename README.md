@@ -111,15 +111,24 @@
 * Javascript
 * Actionscript
 * Charles
+* SOLID
 * MVP
 * MVVM
 * MVVMC
+* VIPER
+* CLEAN
 * MVC
 
 I am experienced with the following environments and software:
 SDK Dropbox, SDK Instagram, SDK Facebook, FFmpeg, AngularJS, Node.js, Ruby, Ruby On Rails, Python, Django, PHP, Linux, Ubuntu, Apache, Nginx, MySQL, PostgreSQL, SQlite, Git, Subversion, Newrelic, RVM, MVC, MVP, MVVM, SOLID, API Development, JSON, XML
 
 # Projects
+
+## [Digio](https://www.digio.com.br/)
+Developed Digio, implemented lastest mobile technologies (native).
+
+### Versions
+* [iOS](https://apps.apple.com/br/app/digio/id1128793569)
 
 ## [Remix](https://http://www.pepblast.com/)
 Developed Remix, implemented lastest mobile technologies (native).
