@@ -14,6 +14,14 @@
 
 # Work Experience
 
+### Senior iOS Developer (2021 - 2021)
+#### [GOK.digital](https://gok.digital/), Fortaleza/São Paulo, BR
+
+* Developing and maintaining iOS applications
+* Shipped code on projects with an agile, test-driven development
+* Extensive experience with Swift
+* Using Git for version control, revisions
+
 ### Senior Mobile Developer (2020 - 2021)
 #### [GVP.digital](https://www.gvp.com.br/), Fortaleza/São Paulo, BR
 
