@@ -106,9 +106,18 @@
 * SwiftUI
 * iOS
 * Android
+* Kotlin
 * Objective-C
 * Swift
 * GitHub
+* Rx
+* Clean Architecture
+* Retrofit2
+* Dagger 
+* Material Design
+* Android Architecture Components
+* CI/CD
+* Firebase
 * AWS IoT MQTT
 * Adobe Photoshop
 * Mobile development (RESTful architecture)
@@ -163,6 +172,19 @@ Developed Remix, implemented lastest mobile technologies (native).
 
 ### Features
 * Complex SwiftUI application with native codes, manipulation integrated with leading social networks
+
+## [DMCard](https://apps.apple.com/br/app/dmcard/id1160316619)
+Developed DMCard, implemented lastest mobile technologies (native).
+
+### Versions
+* [iOS](https://apps.apple.com/br/app/dmcard/id1160316619)
+
+## [‎Jequiti com Você](https://www.jequiticomvoce.com.br/)
+Developed Jequiti, implemented lastest mobile technologies (native).
+
+### Versions
+* [iOS](https://apps.apple.com/br/app/jequiti-com-voc%C3%AA/id1456016904)
+* [Android](https://play.google.com/store/apps/details?id=br.com.zapsac.jequitivoce)
 
 ## [PepBlast MP](https://http://www.pepblast.com/)
 Developed Remix, implemented lastest mobile technologies (native).
