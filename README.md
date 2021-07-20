@@ -103,12 +103,15 @@
 
 # Skills
 * Java
-* SwiftUI
 * iOS
 * Android
 * Kotlin
 * Objective-C
 * Swift
+* SwiftUI
+* SwiftGen
+* XcodeGen
+* ViewCode
 * GitHub
 * Rx
 * Clean Architecture
@@ -140,6 +143,12 @@ I am experienced with the following environments and software:
 SDK Dropbox, SDK Instagram, SDK Facebook, FFmpeg, AngularJS, Node.js, Ruby, Ruby On Rails, Python, Django, PHP, Linux, Ubuntu, Apache, Nginx, MySQL, PostgreSQL, SQlite, Git, Subversion, Newrelic, RVM, MVC, MVP, MVVM, SOLID, API Development, JSON, XML
 
 # Projects
+
+## [Uber Conta](https://www.uber.com/)
+Developed Uber Conta, implemented lastest mobile technologies (native).
+
+### Versions
+* [iOS](https://apps.apple.com/br/app/uber-conta/id1550784531)
 
 ## [Digio](https://www.digio.com.br/)
 Developed Digio, implemented lastest mobile technologies (native).
