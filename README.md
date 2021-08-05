@@ -2,7 +2,7 @@
 
 ## Contact Detail
 
-* **Linkedin:** http://linkedin.com/in/pedro-henrique-21190064
+* **Linkedin:** https://www.linkedin.com/in/pedro-h-21190064/
 * **Skype:** pedro0102
 * **Email:** pedroknk@gmail.com
 * **Website:** https://github.com/PedroMobile/resume-dev
