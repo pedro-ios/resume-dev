@@ -14,6 +14,14 @@
 
 # Work Experience
 
+### Senior iOS Developer (2021 - 2022)
+#### [XP Inc](https://www.xpinc.com/), Fortaleza/São Paulo, BR
+
+* Developing and maintaining iOS applications
+* Shipped code on projects with an agile, test-driven development
+* Extensive experience with Swift
+* Using Git for version control, revisions
+
 ### Senior iOS Developer (2021 - 2021)
 #### [GOK.digital](https://gok.digital/), Fortaleza/São Paulo, BR
 
@@ -143,6 +151,12 @@ I am experienced with the following environments and software:
 SDK Dropbox, SDK Instagram, SDK Facebook, FFmpeg, AngularJS, Node.js, Ruby, Ruby On Rails, Python, Django, PHP, Linux, Ubuntu, Apache, Nginx, MySQL, PostgreSQL, SQlite, Git, Subversion, Newrelic, RVM, MVC, MVP, MVVM, SOLID, API Development, JSON, XML
 
 # Projects
+
+## [XP Investimentos](https://www.xpi.com.br/)
+Developed XP Investimentos, implemented lastest mobile technologies (native).
+
+### Versions
+* [iOS](https://apps.apple.com/br/app/xp-investimentos/id1300713021)
 
 ## [Uber Conta](https://www.uber.com/)
 Developed Uber Conta, implemented lastest mobile technologies (native).
