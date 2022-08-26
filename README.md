@@ -14,24 +14,32 @@
 
 # Work Experience
 
-### Senior iOS Developer (2021 - 2022)
-#### [XP Inc](https://www.xpinc.com/), Fortaleza/São Paulo, BR
+### Senior iOS Developer (mar-2022)
+#### [Vortigo](https://vortigo.digital/), Porto Alegre - RS, BR
 
 * Developing and maintaining iOS applications
 * Shipped code on projects with an agile, test-driven development
 * Extensive experience with Swift
 * Using Git for version control, revisions
 
-### Senior iOS Developer (2021 - 2021)
-#### [GOK.digital](https://gok.digital/), Fortaleza/São Paulo, BR
+### Senior iOS Developer (jun-2021 - mar-2022)
+#### [XP Inc](https://www.xpinc.com/), São Paulo, BR
 
 * Developing and maintaining iOS applications
 * Shipped code on projects with an agile, test-driven development
 * Extensive experience with Swift
 * Using Git for version control, revisions
 
-### Senior Mobile Developer (2020 - 2021)
-#### [GVP.digital](https://www.gvp.com.br/), Fortaleza/São Paulo, BR
+### Senior iOS Developer (jan-2021 - jun-2021)
+#### [GOK.digital](https://gok.digital/), São Paulo, BR
+
+* Developing and maintaining iOS applications
+* Shipped code on projects with an agile, test-driven development
+* Extensive experience with Swift
+* Using Git for version control, revisions
+
+### Senior Mobile Developer (oct-2020 - dez-2021)
+#### [GVP.digital](https://www.gvp.com.br/), São Paulo, BR
 
 * Developing and maintaining iOS, Android applications
 * Shipped code on projects with an agile, test-driven development
@@ -40,7 +48,7 @@
 * JSON, XML
 * Using Git for version control, revisions
 
-### Senior Mobile Developer (2018 - 2020)
+### Senior Mobile Developer (jan-2018 - oct-2020)
 #### [Photozig](https://www.photozig.com/), Fortaleza/California, BR/USA
 
 * Developing and maintaining iOS, Android applications
@@ -50,7 +58,7 @@
 * JSON, XML
 * Using Git for version control, revisions
 
-### Senior Mobile Developer/Architect (2015 - 2018)
+### Senior Mobile Developer/Architect (jun-2015 - dez-2018)
 #### [Joyjet](http://www.joyjet.com), Fortaleza/Paris, BR/FR
 
 * Developing and maintaining iOS, Android applications
@@ -60,7 +68,7 @@
 * JSON, XML
 * Using Git for version control, revisions
 
-### Lead & Senior Mobile Developer (2013 - 2016)
+### Lead & Senior Mobile Developer (jan-2013 - jun-2015)
 #### [Index Digital](http://www.indexdigital.com.br), Fortaleza, CE
 
 * Developing and maintaining iOS, Android applications
@@ -70,7 +78,7 @@
 * JSON, XML
 * Using Git for version control, revisions
 
-### Senior Developer (2011 - 2013)
+### Senior Developer (jan-2011 - jan-2013)
 #### [101º Macaco](https://vimeo.com/gomonkey), Fortaleza, CE
 
 * Developing and maintaining iOS, Android applications, Games realtime, unity and arduino
@@ -78,7 +86,7 @@
 * Twitter, Facebook, Instagram API's
 * JSON, XML
 
-### Senior Web Developer (2010 - 2011)
+### Senior Web Developer (jan-2010 - jan-2011)
 #### [333 Propaganda](http://333comunicacao.com.br), Fortaleza, CE
 
 * Developing web applications, flash applications, games, arduino and unity
