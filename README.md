@@ -2,9 +2,10 @@
 
 ## Contact Detail
 
-* **Linkedin:** https://www.linkedin.com/in/pedro-h-21190064/
+* **Linkedin:** https://www.linkedin.com/in/pedro-h-21190064
 * **Skype:** pedro0102
 * **Email:** pedroknk@gmail.com
+* **Whatsapp:** +5585999399618
 * **Website:** https://github.com/PedroMobile/resume-dev
 
 ## Education
@@ -122,6 +123,8 @@
 * iOS
 * Android
 * Kotlin
+* Flutter
+* React Native
 * Objective-C
 * Swift
 * SwiftUI
@@ -129,10 +132,13 @@
 * XcodeGen
 * ViewCode
 * GitHub
-* Rx
+* CI/CD
+* RxSwift
+* Combine
 * Clean Architecture
 * Retrofit2
 * Dagger 
+* BDD
 * Material Design
 * Android Architecture Components
 * CI/CD
@@ -154,6 +160,13 @@
 * VIPER
 * CLEAN
 * MVC
+* GraphQL
+* REST
+* Figma
+* Jira
+* Scrum
+* Unit Tests
+* Snapshot Tests
 
 I am experienced with the following environments and software:
 SDK Dropbox, SDK Instagram, SDK Facebook, FFmpeg, AngularJS, Node.js, Ruby, Ruby On Rails, Python, Django, PHP, Linux, Ubuntu, Apache, Nginx, MySQL, PostgreSQL, SQlite, Git, Subversion, Newrelic, RVM, MVC, MVP, MVVM, SOLID, API Development, JSON, XML
@@ -165,6 +178,24 @@ Developed XP Investimentos, implemented lastest mobile technologies (native).
 
 ### Versions
 * [iOS](https://apps.apple.com/br/app/xp-investimentos/id1300713021)
+
+## [Porto: seguro, cartão, crédito](https://www.portoseguro.com.br/)
+Developed Porto, implemented lastest mobile technologies (native).
+
+### Versions
+* [iOS](https://apps.apple.com/br/app/porto-seguro-cart%C3%A3o-cr%C3%A9dito/id1511026277)
+
+## [Shopcoopera](https://www.shopcoopera.com.br/)
+Developed Shopcoopera, implemented lastest mobile technologies (native).
+
+### Versions
+* [iOS](https://apps.apple.com/br/app/coopera/id1522048091)
+
+## [SuperDigital](https://superdigital.com.br/)
+Developed Super Digital, implemented lastest mobile technologies (native).
+
+### Versions
+* [iOS](https://apps.apple.com/br/app/superdigital/id1175387636)
 
 ## [Uber Conta](https://www.uber.com/)
 Developed Uber Conta, implemented lastest mobile technologies (native).
