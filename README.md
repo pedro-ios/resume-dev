@@ -15,7 +15,15 @@
 
 # Work Experience
 
-### Senior iOS Developer (mar-2022)
+### Senior iOS Developer (jan-2023)
+#### [Rethink](https://vortigo.digital/), Belo Horizonte - MG, BR
+
+* Developing and maintaining iOS applications
+* Shipped code on projects with an agile, test-driven development
+* Extensive experience with Swift
+* Using Git for version control, revisions
+
+### Senior iOS Developer (mar-2022 - dez-2022)
 #### [Vortigo](https://vortigo.digital/), Porto Alegre - RS, BR
 
 * Developing and maintaining iOS applications
@@ -23,7 +31,7 @@
 * Extensive experience with Swift
 * Using Git for version control, revisions
 
-### Senior iOS Developer (jun-2021 - mar-2022)
+### Senior iOS Developer (set-2021 - mar-2022)
 #### [XP Inc](https://www.xpinc.com/), São Paulo, BR
 
 * Developing and maintaining iOS applications
@@ -31,7 +39,7 @@
 * Extensive experience with Swift
 * Using Git for version control, revisions
 
-### Senior iOS Developer (jan-2021 - jun-2021)
+### Senior iOS Developer (jan-2021 - jul-2021)
 #### [GOK.digital](https://gok.digital/), São Paulo, BR
 
 * Developing and maintaining iOS applications
