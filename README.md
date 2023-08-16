@@ -15,23 +15,15 @@
 
 # Work Experience
 
-### Senior iOS Developer (jan-2023)
-#### [Rethink](https://vortigo.digital/), Belo Horizonte - MG, BR
+### Senior iOS Developer (out-2022 - jun-2023)
+#### [Indra](https://www.indracompany.com/), São Paulo, BR
 
 * Developing and maintaining iOS applications
 * Shipped code on projects with an agile, test-driven development
 * Extensive experience with Swift
 * Using Git for version control, revisions
 
-### Senior iOS Developer (mar-2022 - dez-2022)
-#### [Vortigo](https://vortigo.digital/), Porto Alegre - RS, BR
-
-* Developing and maintaining iOS applications
-* Shipped code on projects with an agile, test-driven development
-* Extensive experience with Swift
-* Using Git for version control, revisions
-
-### Senior iOS Developer (set-2021 - mar-2022)
+### Senior iOS Developer (set-2021 - set-2022)
 #### [XP Inc](https://www.xpinc.com/), São Paulo, BR
 
 * Developing and maintaining iOS applications
@@ -180,6 +172,13 @@ I am experienced with the following environments and software:
 SDK Dropbox, SDK Instagram, SDK Facebook, FFmpeg, AngularJS, Node.js, Ruby, Ruby On Rails, Python, Django, PHP, Linux, Ubuntu, Apache, Nginx, MySQL, PostgreSQL, SQlite, Git, Subversion, Newrelic, RVM, MVC, MVP, MVVM, SOLID, API Development, JSON, XML
 
 # Projects
+
+## [Banco do Brasil](https://www.bb.com.br/)
+Developed Banco do Brasil, implemented lastest mobile technologies (native).
+
+### Versions
+* [iOS](https://apps.apple.com/br/app/banco-do-brasil/id330984271)
+* [Android](https://play.google.com/store/apps/details?id=br.com.bb.android&hl=pt_BR&gl=US&pli=1)
 
 ## [XP Investimentos](https://www.xpi.com.br/)
 Developed XP Investimentos, implemented lastest mobile technologies (native).
